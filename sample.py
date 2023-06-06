@@ -1,4 +1,4 @@
-a=70
+a=80
 b=20
-print (a-b)
+print (a*b)
 
